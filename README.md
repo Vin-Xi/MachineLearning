@@ -1,2 +1,2 @@
 # MachineLearning
-This repository contains completed assignments of all Machine Learning Course by Andrew NG -Stanford
+This repository contains all completed assignments of the Machine Learning Course by Andrew NG -Stanford
